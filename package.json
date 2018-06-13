@@ -1,0 +1,10 @@
+{
+  "name": "isidore-v3",
+  "version": "3.0.0",
+  "description": "New site for St Isidore in 2018",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Matt Kush"
+}
